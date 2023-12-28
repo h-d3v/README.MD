@@ -25,8 +25,10 @@ With a rich background in backend engineering and a passion for educational tech
 
 Feel free to explore my repositories and let's get in touch to create something amazing together!
 
+<img src="https://komarev.com/ghpvc/?username=h-d3v&style=flat-square&color=blue" alt=""/>
+
 ---
 
 📌 _"Whatever the mind of man can conceive and believe, it can achieve."_ - Napeleon Hill
 
-<img src="https://komarev.com/ghpvc/?username=h-d3v&style=flat-square&color=blue" alt=""/>
+
