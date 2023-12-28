@@ -21,10 +21,12 @@ With a rich background in backend engineering and a passion for educational tech
 ### Let's Connect!
 
 - 💬 Ask me about anything tech-related, from backend challenges to balancing entrepreneurial endeavors.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/hedi-o-0639561b8/)
+- 📫 How to reach me: <a href="[your-linkedin-URL](https://www.linkedin.com/in/hedi-o-0639561b8/)"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> </a>
 
 Feel free to explore my repositories and let's get in touch to create something amazing together!
 
 ---
 
 📌 _"Whatever the mind of man can conceive and believe, it can achieve."_ - Napeleon Hill
+
+<img src="https://komarev.com/ghpvc/?username=h-d3v&style=flat-square&color=blue" alt=""/>
