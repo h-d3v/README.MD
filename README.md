@@ -21,7 +21,7 @@ With a rich background in backend engineering and a passion for educational tech
 ### Let's Connect!
 
 - 💬 Ask me about anything tech-related, from backend challenges to balancing entrepreneurial endeavors.
-- 📫 How to reach me: <a href="[your-linkedin-URL](https://www.linkedin.com/in/hedi-o-0639561b8/)"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> </a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/hedi-o-0639561b8/)(https://www.linkedin.com/in/hedi-o-0639561b8/"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> </a>
 
 Feel free to explore my repositories and let's get in touch to create something amazing together!
 
