@@ -16,7 +16,7 @@ With a rich background in backend engineering and a passion for educational tech
 
 - 🌟 **Versatile Projects**: From intricate backend systems to elegant frontend solutions, I worked on many projects.
 - 🔍 **Open to Collaboration**: I love contributing to open-source projects and am always on the lookout for exciting new collaborations.
-- 📚 **Educational Contributions**: As a firm believer in continuous learning and sharing knowledge, you'll find several educational repositories and contributions.
+- 📚 **OpenSource Contributions**: As a firm believer in continuous learning and sharing knowledge, you'll find several repositories and contributions.
 
 ### Let's Connect!
 
