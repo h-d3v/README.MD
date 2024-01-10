@@ -1,4 +1,4 @@
-# Hello, I'm Hedi 👋
+# Hellow👋
 
 ## 💼 Professional Backend Engineer & Founder of [TeachTech.ca](https://teachtech.ca)
 
