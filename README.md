@@ -1,4 +1,4 @@
-# Hellow👋
+# Hello👋
 
 ## 💼 Professional Backend Engineer & Founder of [TeachTech.ca](https://teachtech.ca)
 
