@@ -6,7 +6,7 @@ With a rich background in backend engineering and a passion for educational tech
 
 ### What I Do
 
-🚀 **Backend Profesionnal**: As a seasoned backend engineer, I excel in creating robust, scalable, and efficient server-side applications. My expertise lies in Microservices, Rest APIs, Cloud architecture, SQL and NoSQL Databases and more.
+🚀 **Backend Profesionnal**: As a seasoned backend dev, I excel in creating robust, scalable, and efficient server-side applications. My expertise lies in Microservices, Rest APIs, Cloud architecture, SQL and NoSQL Databases and more.
 
 🌐 **Frontend Skills**: Besides my backend prowess, I'm also skilled in front-end development, ensuring seamless and engaging user experiences. I have experince mostly in building SPAs with Vue and React.
 
@@ -15,7 +15,7 @@ With a rich background in backend engineering and a passion for educational tech
 ### My GitHub Highlights
 
 - 🌟 **Versatile Projects**: From intricate backend systems to elegant frontend solutions, I worked on many projects.
-- 🔍 **Open to Collaboration**: I love contributing to open-source projects and am always on the lookout for exciting new collaborations.
+- 🔍 **Open to Collaboration**: I love contributing to open-source projects and I'm always on the lookout for exciting new collaborations.
 - 📚 **OpenSource Contributions**: As a firm believer in continuous learning and sharing knowledge, I try to contribute to projects that I like.
 
 ### Let's Connect!
